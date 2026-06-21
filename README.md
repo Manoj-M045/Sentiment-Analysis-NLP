@@ -29,5 +29,5 @@ This project performs sentiment analysis on text reviews using Natural Language 
 
 ## Author
 
-M. Manoj
+MANOJ M
 
